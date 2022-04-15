@@ -1,0 +1,10 @@
+#hero_img {
+   flex: 1 0 auto;
+   position: relative;
+   max-width: 100%;
+   max-height: 100%;
+   object-fit: cover;
+   opacity: .7;
+   background-image: linear-gradient(to right, #a70000, #c9384e, #da6a8e, #df9ac2, #e4c8e6, #dacae4, #d2cbdf, #cdccd9, #a7a8bd, #8186a2, #5b6588, #32476f);
+   z-index: -1;
+}
