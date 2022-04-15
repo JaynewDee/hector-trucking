@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.938a8b8b.css",
+    "main.js": "/static/js/main.b7d291b7.js",
+    "static/media/on_the_road.png": "/static/media/on_the_road.5d6f31d0edac065d6367.png",
+    "index.html": "/index.html",
+    "main.938a8b8b.css.map": "/static/css/main.938a8b8b.css.map",
+    "main.b7d291b7.js.map": "/static/js/main.b7d291b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.938a8b8b.css",
+    "static/js/main.b7d291b7.js"
+  ]
+}
